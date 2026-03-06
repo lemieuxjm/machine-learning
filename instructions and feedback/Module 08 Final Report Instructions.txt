@@ -1,0 +1,33 @@
+Module 08: Final Report
+
+Overview
+The main purpose of the course project is to work through the full lifecycle of a relatively simple, yet very realistic, applied machine learning project. With this in mind, the project is divided into three general components: 1) Analytic Plan, 2) Preliminary Results, and 3) Final Report.
+
+In the applied industry context, the Final Report would be the final client deliverable, where a data scientist presents the earlier reviewed, and amended, if necessary, results and recommendations, all presented in the context of the key elements of the Analytic Plan, emphasizing the stated goal(s) of the project. As such, the Final Report assignment is characterized by greater scope (than the Analytic Plan and Preliminary Results assignments) as it needs to address the key elements of both the Analytic Plan and Preliminary Results, in addition to also delineating the key takeaways and recommendations.
+
+Instructions
+When approaching your Final Report, imagine that you are a data scientist conducting machine-learning-based analyses for your clients, who might be internal or external to your organization. You have had at least two prior meetings in which you discussed your clients’ needs and your proposed approach (typically in one of your first meetings), following which you also reviewed with your clients your initial findings and collected their feedback, subsequent to which you made any changes to your analyses that might have been warranted. At this point, you are putting together your final report, the focus of which is on the key findings and recommendations. Consequently, the Final Report should provide at least the following:
+
+Restate the data preparation and feature engineering steps that were performed.
+Incorporate any changes that were made to the original steps outlined in the Analytic Plan.
+Compare at least two dense neural network models.
+ROC curves, AUC, and calibration plots should be used to compare the models.
+Select a final model that provides a solution to the business need. Discuss how the model will be used in practice.
+The report should include the following sections and content:
+
+Executive Summary: 1-2 pages succinct summary of your key findings and recommendations, presented in the context of the goal of the project.
+Approach & Data: A discussion of 1) the overall approach, focusing on the business question(s), and analytic and informational goals, 2) the available data, 3) the feature engineering steps, and 4) the machine learning methods used.
+Detailed Findings and Evaluation: An in-depth evaluation of models and description of analytical findings – whenever possible/applicable shown graphically with written description.
+Recommendations: A discussion of how the final model can be used to answer the business question(s) and achieve the analytic and informational goals.
+Appendix: Any additional details such as parts of the output you consider worthwhile but not appropriate for inclusion in the body of the report. It is important to make sure, however, that only outcomes that are referenced elsewhere in your report and/or are necessary to understand the details of the work are included – inclusion of unrelated or unnecessary (to communicating or explaining of results) outcomes will adversely impact the final report grade.
+Deliverable
+Formatting, delivery, and content considerations:
+
+Length: No more than 20 single-spaced pages (excluding any appendices).
+Format: MS Word/PDF/HTML; 12-point New Times Roman font.
+Delivery: Please submit an electronic copy of your report only.
+Content: When including any charts/graphs or other parts of your statistical analyses-generated output, only those elements of the analytic output that are used and/or referenced in the result discussion should be included; attaching unnecessary parts of the output will adversely impact the assignment grade as it will signal inattention to detail or a lack of full understanding of the analytic output. At the same time, not including evidence which is necessary to properly evaluate the analytic outcomes will also adversely impact the assignment grade. In short, it is critical to be thoughtful and purposeful.
+Upload your MS Word/PDF/HTML file to Canvas:
+
+Add your file by selecting "Upload" or by dragging and dropping the file.
+Select "Submit Assignment" to turn in your assignment.

@@ -1,0 +1,10 @@
+Course Project Instructions
+For the project in this course, address the following business need of the customer using the provided data set.
+
+Customer: ABC Hotels.
+
+Business Need: ABC Hotels would like to identify bookings that have a high risk of cancellation. The risk of cancellation should be a value between 0 and 1, so it can be interpreted as the probability of cancellation. With this capability, hotel management can target bookings that have a high risk (i.e., probability) of cancellation with additional advertisements and/or offers in an effort to prevent them from being cancelled.
+
+Data: ABC Hotels has provided a data set containing over 35,000 bookings for which it is known whether or not the booking was cancelled. Students are required to use this data set provided in the zipped folder below.
+
+Use project_data.zip

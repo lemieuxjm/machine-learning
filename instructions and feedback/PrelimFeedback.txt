@@ -1,0 +1,14 @@
+PrelimFeedback
+
+
+Excellent work on the Preliminary Results, June! Since all of the requirements for this assignment have been satisfied, the most important requirements to focus on for the Final Report are:
+
+-Try at least one additional dense feed-forward neural network with a different architecture. Try to obtain a model that is capable of overfitting. In particular, focus on improving the model fit using methods such as varying the number of hidden neurons and layers. The reason we want to obtain a model that is capable of overfitting is because this model is flexible enough for the problem at hand. Then, we implement methods to prevent overfitting, such as early-stopping (i.e., stop at the epoch number where overfitting starts to occur), dropout, or regularization.
+
+-Evaluate and compare the dense feed-forward neural networks using ROC curves, AUC, and calibration curves.
+
+-Discuss the findings from the above analyses, as well as how the model will be used in practice.
+
+-Discuss future research/steps forward. The steps forward can include data that may be worthwhile including in future analyses.
+
+Please let me know if you have any questions!
