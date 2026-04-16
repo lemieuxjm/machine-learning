@@ -45,7 +45,7 @@ Refer to `DataDictionaryAttempt.xlsx` for complete feature documentation.
 ## Tech Stack
 
 **Language & Environment:**
-- Python 3.x
+- Python 3.12.8
 - Jupyter Notebooks
 
 **Data Processing & Analysis:**
