@@ -167,3 +167,13 @@ pip install pandas numpy scikit-learn torch seaborn matplotlib
 2. `FinalProject_Take1.ipynb` – Neural Network Model 1
 3. `FinalProject_Take2.ipynb` – Neural Network Model 2
 4. `FinalProject_Take3.ipynb` – Neural Network Model 3
+
+---
+
+## Attribution
+
+**Student:** J. Lemieux  
+**Course:** Machine Learning+Artificial Intelligence  
+**Date Completed:** March 2025
+
+
