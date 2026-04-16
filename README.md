@@ -42,6 +42,26 @@ Refer to `DataDictionaryAttempt.xlsx` for complete feature documentation.
 
 ---
 
+## Tech Stack
+
+**Language & Environment:**
+- Python 3.x
+- Jupyter Notebooks
+
+**Data Processing & Analysis:**
+- Pandas
+- NumPy
+
+**Machine Learning & Deep Learning:**
+- TensorFlow / Keras
+- Scikit-learn
+
+**Visualization:**
+- Matplotlib
+- Seaborn
+
+---
+
 ## Project Phases
 
 This project follows a structured machine learning lifecycle:
