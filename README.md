@@ -13,20 +13,20 @@ This project applies machine learning to predict hotel booking cancellation risk
 
 ```
 machine-learning/
-├── code/                              # Jupyter notebooks for analysis
-│   ├── 02 preliminary results/        # Initial findings and EDA
-│   └── 03 final report and appendices/ # Final model iterations and deliverables
-├── data/                              # Project datasets
-│   ├── project_data.csv               # Main dataset
-│   ├── project_data.xlsx              # Excel format
-│   ├── project_data_test.xlsx         # Test set
-│   └── DataDictionaryAttempt.xlsx     # Feature definitions
-├── reports/                           # Formal report deliverables
+├── code/                                # Jupyter notebooks for analysis
+│   ├── 02 preliminary results/          # Initial findings and EDA
+│   └── 03 final report and appendices/  # Final model iterations and deliverables
+├── data/                                # Project datasets
+│   ├── project_data.csv                 # Main dataset
+│   ├── project_data.xlsx                # Excel format
+│   ├── project_data_test.xlsx           # Test set
+│   └── DataDictionaryAttempt.xlsx       # Feature definitions
+├── reports/                             # Formal report deliverables
 │   ├── 01 analytic plan/
 │   ├── 02 preliminary results/
 │   └── 03 final report and appendices/
-├── instructions and feedback/         # Project requirements and feedback
-└── testing and output/                # Additional outputs and experiments
+├── instructions and feedback/           # Project requirements and feedback
+└── testing and output/                  # Additional outputs and experiments
 ```
 
 ---
@@ -60,7 +60,7 @@ This project follows a structured machine learning lifecycle:
 
 ### 3. Final Report
 - Comprehensive analysis with refined models
-- Comparison of multiple dense neural network architectures
+- Comparison of three multiple dense neural network architectures
 - Evaluation using ROC curves, AUC, and calibration plots
 - Model selection and business recommendations
 - Ready for client presentation
@@ -71,9 +71,9 @@ This project follows a structured machine learning lifecycle:
 
 **Notebooks:**
 - `DSE6211_PreliminaryReport_PythonNotebook.ipynb` – Preliminary findings and exploratory analysis
-- `FinalProject_Take1.ipynb` – Final report (iteration 1)
-- `FinalProject_Take2.ipynb` – Final report (iteration 2)
-- `FinalProject_Take3.ipynb` – Final report (iteration 3)
+- `FinalProject_Take1.ipynb` – Neural Network Model 1
+- `FinalProject_Take2.ipynb` – Neural Network Model 2
+- `FinalProject_Take3.ipynb` – Neural Network Model 3
 
 **Report Specifications:**
 - Executive Summary (1-2 pages)
@@ -90,15 +90,17 @@ This project follows a structured machine learning lifecycle:
 ### Project Phase Reports (PDF)
 - [Analytic Plan](reports/01%20analytic%20plan/DSE6211_%20AnalyticPlan_JMLemieux.pdf) – Initial project strategy and approach
 - [Preliminary Results](reports/02%20preliminary%20results/DSE6211_PreliminaryResults_JMLemieux.pdf) – Initial findings and feedback
-- [Final Report](reports/03%20final%20report%20and%20appendices/DSE6211_FinalReport_JMLemieux.pdf) – Comprehensive final deliverable
 
-### Final Report Iterations (PDF)
-- [Final Report Iteration 1](reports/03%20final%20report%20and%20appendices/FinalProject_Take1.pdf)
-- [Final Report Iteration 2](reports/03%20final%20report%20and%20appendices/FinalProject_Take2.pdf)
-- [Final Report Iteration 3](reports/03%20final%20report%20and%20appendices/FinalProject_Take3.pdf)
+### Final Report (PDF)
+- [Final Report](reports/03%20final%20report%20and%20appendices/DSE6211_FinalReport_JMLemieux.pdf) – Comprehensive final deliverable identifying the recommended model
 
-### Analysis Documentation
-- [Model Comparison Notes](testing%20and%20output/Final%20Project%20differences%20between%20models.docx) – Differences between neural network models
+### Neural Network Model Details (PDF)
+- [Neural Network Model 1](reports/03%20final%20report%20and%20appendices/FinalProject_Take1.pdf)
+- [Neural Network Model 2](reports/03%20final%20report%20and%20appendices/FinalProject_Take2.pdf)
+- [Neural Network Model 3](reports/03%20final%20report%20and%20appendices/FinalProject_Take3.pdf)
+
+### Additional Notes
+- [Model Comparison Notes](testing%20and%20output/Final%20Project%20differences%20between%20models.docx) – Neural network model comparison notes
 
 ---
 
@@ -142,6 +144,6 @@ pip install pandas numpy scikit-learn torch seaborn matplotlib
 
 **Notebook Execution Order:**
 1. `DSE6211_PreliminaryReport_PythonNotebook.ipynb` – Data exploration and preliminary analysis
-2. `FinalProject_Take1.ipynb` – Final report (iteration 1)
-3. `FinalProject_Take2.ipynb` – Final report (iteration 2)
-4. `FinalProject_Take3.ipynb` – Final report (iteration 3)
+2. `FinalProject_Take1.ipynb` – Neural Network Model 1
+3. `FinalProject_Take2.ipynb` – Neural Network Model 2
+4. `FinalProject_Take3.ipynb` – Neural Network Model 3
