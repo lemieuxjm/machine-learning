@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation Risk Prediction
+# Hotel Booking Cancellation Risk Prediction | Graduate ML Project
 
 ## Project Overview
 
